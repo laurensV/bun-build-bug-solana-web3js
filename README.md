@@ -1,4 +1,4 @@
-Many packages run just fine when using bun directly, but when trying to use `bun build` it gives this error `TypeError: The superclass is not a constructor.`
+Some packages run just fine when using bun directly, but when trying to use `bun build` it gives this error `TypeError: The superclass is not a constructor.`
 
 I created a small example repo:
 First install the package, for example `@solana/web3.js`
